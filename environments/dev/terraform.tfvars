@@ -1,0 +1,7 @@
+gcp_project     = "your-gcp-project-id"
+gcp_region      = "us-east1"
+instance_name   = "dev-vm-instance"
+machine_type    = "e2-medium"
+zone            = "us-east1-b"
+image           = "debian-cloud/debian-11"
+network         = "default"
